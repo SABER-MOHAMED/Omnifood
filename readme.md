@@ -17,4 +17,4 @@ Having created the website from scratch, I learned how to create and implement f
 
 # Hero
 <a href="https://saber-mohamed.netlify.app" target="_blank">
-<img src="./screenshoot.png" style="max-width:100%;"></a>
+<img src="./screenShoot.png" style="max-width:100%;"></a>
